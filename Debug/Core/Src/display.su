@@ -1,0 +1,10 @@
+display.c:98:6:variaveis_display	16	static
+display.c:115:6:inicializar_display	8	static
+display.c:136:6:tempo_display	8	static
+display.c:149:6:limpar_display	8	static
+display.c:161:6:comandos_display	32	static
+display.c:201:6:escrever_texto_display	24	static
+display.c:256:6:escrever_numero_display	48	static
+display.c:286:6:dec2bin	24	static
+display.c:307:6:caracteres_especiais	24	static
+display.c:327:6:escreve_char	24	static
