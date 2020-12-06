@@ -523,7 +523,7 @@ int main(void)
 
 	              case 5://Seleção do tipo de água para a capsula de Agua
 
-	            	  if(Bn1 == 0){//Se o usuário retar a capsula
+	            	  if(strcmp(capsulas[Bn1].nome, "      Agua      ") != 0){//Se o usuário retirar a capsula ou for uma capsula diferente
 	            		  estado = 0;//Retorna para o estado inicial
 	            		  selecao = -1;
 	            		  break;
